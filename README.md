@@ -39,7 +39,7 @@ My goal is to build practical projects, improve my development skills, and provi
 My first responsive portfolio website built using HTML, CSS, and JavaScript.
 
 🔗 Live Website:
-https://github.com/rameenhayatdev
+https://rameenhayat583-bot.github.io/my-portfolio/
 
 ---
 
