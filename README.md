@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Rameen 👋
 
-<!--
-**rameenhayatdev/rameenhayatdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student  
+🌱 Learning Web Development & Python  
+🚀 Building real-world projects to become a professional freelancer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a Computer Engineering student passionate about software development, web technologies, and automation.
+
+My goal is to build practical projects, improve my development skills, and provide high-quality solutions as a freelancer.
+
+---
+
+## 🛠️ Skills
+
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+
+### Programming Languages
+- Python
+- C++
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### Personal Portfolio Website
+
+My first responsive portfolio website built using HTML, CSS, and JavaScript.
+
+🔗 Live Website:
+YOUR_GITHUB_PAGES_LINK_HERE
+
+---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript
+- Web Development
+- Python Projects
+- Freelancing Skills
+
+---
+
+## 🎯 Goals
+
+- Become a professional Full Stack Developer
+- Build real-world applications
+- Work with international clients
+
+---
+
+⭐ Thanks for visiting my profile!
